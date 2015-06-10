@@ -1,4 +1,4 @@
-package com.example.gurpreet.tmp;
+package com.example.gurpreet.AndroidSQLWrapper;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

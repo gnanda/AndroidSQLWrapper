@@ -1,4 +1,4 @@
-package com.example.gurpreet.tmp.Statements.Expressions;
+package com.example.gurpreet.AndroidSQLWrapper.Statements.Expressions;
 
 /**
  * Created by Gurpreet on 6/9/2015.

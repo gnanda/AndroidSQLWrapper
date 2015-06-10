@@ -1,4 +1,4 @@
-package com.example.gurpreet.tmp;
+package com.example.gurpreet.AndroidSQLWrapper;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
